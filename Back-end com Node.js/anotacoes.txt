@@ -1,0 +1,18 @@
+                              Anotações das aulas do modulo Back-end com Node.js
+
+Métodos HTTP:
+
+- GET: Buscar informações do backend
+- POST: Criar uma informação do backend
+- PUT/PATCH: Alterar uma informação no backend
+- Delete> Deletar uma informação no backend
+
+Tipos de parâmetros:
+
+- Query Params: Filtros e paginação
+- Route Params: Identificar Recursos (Atualizar/Deletar)
+- Request Body: Conteúdo na hora de criar ou editar um recurso (JSON)
+
+Middleware:
+
+- Interceptador de requisições que interromper totalmente a requisição ou alterar dados da requisição
