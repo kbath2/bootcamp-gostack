@@ -4,7 +4,7 @@
 
 - [Motivação](#pushpin-Motivação)
 - [License](#page_with_curl-license)
-- [Author](#pencil-author)
+- [Autor](#pencil-author)
 
 ## :pushpin: Motivação
 
