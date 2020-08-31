@@ -1,0 +1,18 @@
+JSX: html dentro do javascript (javascript XML)
+-----------------------------------
+sempre que for criar um componente, criar com letra maiúscula 
+-----------------------------------
+usamos o "fragment <>" para poder usar um elemento abaixo do outro sem ter que 
+poluir a árvore do dom
+-----------------------------------
+Conceitos importantes do Reactjs 
+
+** componente
+** Propriedade
+** Estado
+-----------------------------------
+{children} ele captura o conteúdo do componente
+-----------------------------------
+useState - retorna um array com 2 posições
+1 - Variável com o seu valor inicial
+2 - Função para atualizarmos esse valor
