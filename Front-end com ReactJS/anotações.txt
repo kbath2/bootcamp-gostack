@@ -16,3 +16,5 @@ Conceitos importantes do Reactjs
 useState - retorna um array com 2 posições
 1 - Variável com o seu valor inicial
 2 - Função para atualizarmos esse valor
+
+yarn webpack-dev-server --mode development
